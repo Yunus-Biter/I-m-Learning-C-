@@ -1,0 +1,7 @@
+C:\Users\mehmet biter\source\repos\EnumVeriables\EnumVeriables\bin\Debug\EnumVeriables.exe.config
+C:\Users\mehmet biter\source\repos\EnumVeriables\EnumVeriables\bin\Debug\EnumVeriables.exe
+C:\Users\mehmet biter\source\repos\EnumVeriables\EnumVeriables\bin\Debug\EnumVeriables.pdb
+C:\Users\mehmet biter\source\repos\EnumVeriables\EnumVeriables\obj\Debug\EnumVeriables.csproj.AssemblyReference.cache
+C:\Users\mehmet biter\source\repos\EnumVeriables\EnumVeriables\obj\Debug\EnumVeriables.csproj.CoreCompileInputs.cache
+C:\Users\mehmet biter\source\repos\EnumVeriables\EnumVeriables\obj\Debug\EnumVeriables.exe
+C:\Users\mehmet biter\source\repos\EnumVeriables\EnumVeriables\obj\Debug\EnumVeriables.pdb
